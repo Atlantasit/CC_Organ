@@ -1,0 +1,4 @@
+28.03.2024 22:45:04 [Logger]: Initialized Logger
+28.03.2024 22:45:04 [Set_folder]: Setting the folder position
+28.03.2024 22:45:04 [Reader]: Determening the highest File number
+28.03.2024 22:45:04 [Reader]: Highest file number is: 87

@@ -1,0 +1,15 @@
+D:\Daten\Github\Cherayna\CC_Organ_Converter\CC_Organ_Converter\obj\Debug\net6.0\CC_Organ_Converter.csproj.AssemblyReference.cache
+D:\Daten\Github\Cherayna\CC_Organ_Converter\CC_Organ_Converter\obj\Debug\net6.0\CC_Organ_Converter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daten\Github\Cherayna\CC_Organ_Converter\CC_Organ_Converter\obj\Debug\net6.0\CC_Organ_Converter.AssemblyInfoInputs.cache
+D:\Daten\Github\Cherayna\CC_Organ_Converter\CC_Organ_Converter\obj\Debug\net6.0\CC_Organ_Converter.AssemblyInfo.cs
+D:\Daten\Github\Cherayna\CC_Organ_Converter\CC_Organ_Converter\obj\Debug\net6.0\CC_Organ_Converter.csproj.CoreCompileInputs.cache
+D:\Daten\Github\Cherayna\CC_Organ_Converter\CC_Organ_Converter\bin\Debug\net6.0\CC_Organ_Converter.exe
+D:\Daten\Github\Cherayna\CC_Organ_Converter\CC_Organ_Converter\bin\Debug\net6.0\CC_Organ_Converter.deps.json
+D:\Daten\Github\Cherayna\CC_Organ_Converter\CC_Organ_Converter\bin\Debug\net6.0\CC_Organ_Converter.runtimeconfig.json
+D:\Daten\Github\Cherayna\CC_Organ_Converter\CC_Organ_Converter\bin\Debug\net6.0\CC_Organ_Converter.dll
+D:\Daten\Github\Cherayna\CC_Organ_Converter\CC_Organ_Converter\bin\Debug\net6.0\CC_Organ_Converter.pdb
+D:\Daten\Github\Cherayna\CC_Organ_Converter\CC_Organ_Converter\obj\Debug\net6.0\CC_Organ_Converter.dll
+D:\Daten\Github\Cherayna\CC_Organ_Converter\CC_Organ_Converter\obj\Debug\net6.0\refint\CC_Organ_Converter.dll
+D:\Daten\Github\Cherayna\CC_Organ_Converter\CC_Organ_Converter\obj\Debug\net6.0\CC_Organ_Converter.pdb
+D:\Daten\Github\Cherayna\CC_Organ_Converter\CC_Organ_Converter\obj\Debug\net6.0\CC_Organ_Converter.genruntimeconfig.cache
+D:\Daten\Github\Cherayna\CC_Organ_Converter\CC_Organ_Converter\obj\Debug\net6.0\ref\CC_Organ_Converter.dll

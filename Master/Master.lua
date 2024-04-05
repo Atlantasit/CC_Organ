@@ -1,4 +1,5 @@
 --This programm was written by Atlantasit
+--Basalt UI is planed for da future
 rednet.open("back")
 print("Selected Song")
 print("-------------")
@@ -8,7 +9,7 @@ print("-------------")
     print(Songlist[1])
     print("Starting in 5 seconds")
     print("------------")
-    os.sleep(100)
+    os.sleep(5)
 
 local h = fs.open("disk/"..Songlist[1],"r")
 line = h.readLine()
@@ -17,6 +18,7 @@ line = h.readLine()
 --Normal note reading and broadcasting
 time = 0
 lastbroadcast = 200
+info = {0,"harp","C4"}
 
 
 while lastbroadcast > time do
@@ -40,7 +42,7 @@ while lastbroadcast > time do
     else
 
         time = time + 1
-        os.sleep(0.1)
+        os.sleep(0.05)
 
     end
 end

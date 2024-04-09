@@ -1,36 +1,37 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net6.0": {},
+    "net6.0/linux-x64": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net6.0": []
   },
   "packageFolders": {
     "/home/atlantasit/.nuget/packages/": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "restore": {
-      "projectUniqueName": "/home/atlantasit/Documents/Daten/Github/CC_Organ/CC_Organ_Converter/Linux version/CC_Organ_Converter/CC_Organ_Converter.csproj",
+      "projectUniqueName": "/home/atlantasit/Massenspeicher/Daten/Github/Cherayna/CC_Organ/CC_Organ_Converter/Linux version/CC_Organ_Converter/CC_Organ_Converter.csproj",
       "projectName": "CC_Organ_Converter",
-      "projectPath": "/home/atlantasit/Documents/Daten/Github/CC_Organ/CC_Organ_Converter/Linux version/CC_Organ_Converter/CC_Organ_Converter.csproj",
+      "projectPath": "/home/atlantasit/Massenspeicher/Daten/Github/Cherayna/CC_Organ/CC_Organ_Converter/Linux version/CC_Organ_Converter/CC_Organ_Converter.csproj",
       "packagesPath": "/home/atlantasit/.nuget/packages/",
-      "outputPath": "/home/atlantasit/Documents/Daten/Github/CC_Organ/CC_Organ_Converter/Linux version/CC_Organ_Converter/obj/",
+      "outputPath": "/home/atlantasit/Massenspeicher/Daten/Github/Cherayna/CC_Organ/CC_Organ_Converter/Linux version/CC_Organ_Converter/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/atlantasit/.config/NuGet/NuGet.Config"
+        "/home/atlantasit/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net6.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -41,9 +42,52 @@
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
-        "runtimeIdentifierGraphPath": "/usr/lib/mono/msbuild/Current/bin/RuntimeIdentifierGraph.json"
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.28, 6.0.28]"
+          },
+          {
+            "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+            "version": "[6.0.28, 6.0.28]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[6.0.28, 6.0.28]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.28, 6.0.28]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Runtime.linux-x64",
+            "version": "[6.0.28, 6.0.28]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.117/RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "linux-x64": {
+        "#import": []
       }
     }
   }

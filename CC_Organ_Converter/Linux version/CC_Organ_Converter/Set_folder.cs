@@ -16,7 +16,7 @@ namespace CC_Organ_Converter
         {
             log.WriteLineToLog("Setting the folder position", "Set_folder");
 
-            var outPutDirectory = Path.GetDirectoryName(Assembly.GetExecutingAssembly().CodeBase);
+            var outPutDirectory = Path.GetDirectoryName(AppContext.BaseDirectory);
             string newPath = outPutDirectory;
             this.folder_noteinfos = new Uri(newPath).LocalPath;
 

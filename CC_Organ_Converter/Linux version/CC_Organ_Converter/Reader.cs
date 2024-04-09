@@ -96,7 +96,7 @@ namespace CC_Organ_Converter
                 } 
                 catch 
                 {
-                    log.WriteLineToLog("File Nr:" + fileNr_current + "not found! Skiping to da next." ,"Reader");
+                    log.WriteLineToLog("File Nr: " + fileNr_current + " not found! Skiping to da next." ,"Reader");
                 }
 
                 fileNr_current++;

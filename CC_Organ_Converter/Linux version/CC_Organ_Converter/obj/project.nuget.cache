@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "U8JBnUMwLZ8B389kpTBmIML5neQ4+9GGH2J83cdMBZ+3ngKb0i2ONPTgSjvhcAOMU3ZuRPxyOgonsEHdUUzAHg==",
+  "dgSpecHash": "SCyv6LasWemals55CHvtFE8/U5E27sWhl1HpPwv8IwQPWyz82snuvPJ+BDbJk12wfTnMZPLvj4RDZNvHIRBYBQ==",
   "success": true,
-  "projectFilePath": "/home/atlantasit/Documents/Daten/Github/CC_Organ/CC_Organ_Converter/Linux version/CC_Organ_Converter/CC_Organ_Converter.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/atlantasit/Massenspeicher/Daten/Github/Cherayna/CC_Organ/CC_Organ_Converter/Linux version/CC_Organ_Converter/CC_Organ_Converter.csproj",
+  "expectedPackageFiles": [
+    "/home/atlantasit/.nuget/packages/microsoft.netcore.app.ref/6.0.28/microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "/home/atlantasit/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.28/microsoft.netcore.app.runtime.linux-x64.6.0.28.nupkg.sha512",
+    "/home/atlantasit/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "/home/atlantasit/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.28/microsoft.aspnetcore.app.runtime.linux-x64.6.0.28.nupkg.sha512",
+    "/home/atlantasit/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.28/microsoft.netcore.app.host.linux-x64.6.0.28.nupkg.sha512"
+  ],
   "logs": []
 }

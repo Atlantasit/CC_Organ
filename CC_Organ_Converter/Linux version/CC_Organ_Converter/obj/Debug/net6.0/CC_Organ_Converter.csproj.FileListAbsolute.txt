@@ -1,0 +1,5 @@
+/home/atlantasit/Massenspeicher/Daten/Github/Cherayna/CC_Organ/CC_Organ_Converter/Linux version/CC_Organ_Converter/obj/Debug/net6.0/CC_Organ_Converter.csproj.AssemblyReference.cache
+/home/atlantasit/Massenspeicher/Daten/Github/Cherayna/CC_Organ/CC_Organ_Converter/Linux version/CC_Organ_Converter/obj/Debug/net6.0/CC_Organ_Converter.GeneratedMSBuildEditorConfig.editorconfig
+/home/atlantasit/Massenspeicher/Daten/Github/Cherayna/CC_Organ/CC_Organ_Converter/Linux version/CC_Organ_Converter/obj/Debug/net6.0/CC_Organ_Converter.AssemblyInfoInputs.cache
+/home/atlantasit/Massenspeicher/Daten/Github/Cherayna/CC_Organ/CC_Organ_Converter/Linux version/CC_Organ_Converter/obj/Debug/net6.0/CC_Organ_Converter.AssemblyInfo.cs
+/home/atlantasit/Massenspeicher/Daten/Github/Cherayna/CC_Organ/CC_Organ_Converter/Linux version/CC_Organ_Converter/obj/Debug/net6.0/CC_Organ_Converter.csproj.CoreCompileInputs.cache

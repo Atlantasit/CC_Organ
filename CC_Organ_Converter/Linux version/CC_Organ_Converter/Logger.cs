@@ -20,7 +20,8 @@ namespace CC_Organ_Converter
         {
             SetLoggerTime();
 
-            var outPutDirectory = Path.GetDirectoryName(Assembly.GetExecutingAssembly().CodeBase);
+            //var outPutDirectory = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
+            var outPutDirectory = Path.GetDirectoryName(AppContext.BaseDirectory);
             string newLOGPath = outPutDirectory;
             this.log_path = new Uri(newLOGPath).LocalPath + "/Logs";
 

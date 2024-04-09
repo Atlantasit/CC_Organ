@@ -22,7 +22,7 @@ namespace CC_Organ_Converter
             log.CreateLog();
 
             Console.WriteLine("Hello and welcome to the CC Organ converter programm!");
-            Console.WriteLine("Version: 1.0");
+            Console.WriteLine("Version: 1.1");
             Console.WriteLine("-----------------------------------------------------");
             Console.WriteLine("Please insert a Name for the exported song");
             export_name = Console.ReadLine();
